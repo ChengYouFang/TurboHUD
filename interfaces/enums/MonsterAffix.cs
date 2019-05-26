@@ -1,0 +1,36 @@
+﻿namespace Turbo.Plugins
+{
+    public enum MonsterAffix : uint
+    {
+        Fast = 3775118,
+        Molten = 106438735,
+        Mortar = 106654229,
+        Horde = 127452338,
+        Illusionist = 394214687,
+        Vampiric = 395423867,
+        Vortex = 458872904,
+        Waller = 481181063,
+        Wormhole = 1156956365,
+        Avenger = 1165197192,
+        HealthLink = 1799201764,
+        FrozenPulse = 1886876669,
+        Orbiter = 1905614711,
+        Poison = 1929212066,
+        Knockback = 2206426855,
+        Electrified = 2542537664,
+        Arcane = 2625377780,
+        ExtraHealth = 2782485594,
+        MissileDampening = 2882216553,
+        Reflect = 2920375063,
+        Plagued = 2961013602,
+        Nightmarish = 3049048382,
+        Shielding = 3569101591,
+        Teleporter = 3787260902,
+        Juggernaut = 3830498332,
+        FireChains = 3855260060,
+        Frozen = 4131130388,
+        Desecrator = 4172983340,
+        Thunderstorm = 4244410831,
+        Jailer = 4267280439,
+    }
+}
